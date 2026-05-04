@@ -37,3 +37,9 @@ We can assign IAM roles to Instances by instance->action->security
 # 6. [[ASG - Auto Scaling Groups]]
 
 # 7. [[RDS - Relational Database Service]]
+
+# 8. [[Amazon Aurora]] (incomp)
+
+# 9. [[AWS S3]]
+
+

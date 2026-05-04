@@ -8,10 +8,12 @@ It is a managed DB service that uses SQL as a Query Language.
 
 - All the regular benefits of being managed by AWS, some are:
 	- Version Control
-	- Disaster Recovery
+	- Read Replicas
+	- Disaster Recovery(Multi-AZ)
 
 ### But we can't SSH into our instances in RDS.
 
 # RDS - Auto Storage Scaling 
 ![[Pasted image 20260504095146.png]]
 
+# [[RDS Read Replicas vs Multi AZ]]
