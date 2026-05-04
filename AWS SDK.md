@@ -1,0 +1,4 @@
+- AWS Software Dev KIT 
+- Language Specific APIs
+- Enables you to access and manage AWS services programmatically 
+- 

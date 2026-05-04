@@ -15,4 +15,23 @@
 
 # AWS Points of Prescence - Edge Locations 
 
-# [[IAM]]
+# 1. [[IAM]]
+# 2. How can users access AWS?
+To access AWS there are three options:
+1. AWS management Console 
+2. AWS CLI 
+3. AWS SDK
+
+CLI and SDK are protected by [[AWS Access & Access Keys]]
+
+# 3. [[AWS CloudShell]]
+
+# 4. [[EC2 - Elastic Compute Cloud]] 
+
+### * Never enter your API Keys(Access ID and Secret Access ID) into your EC2 Instance, because then anyone using the that EC2 instance will be able to access your credentials.
+# * Use IAM roles instead. 
+We can assign IAM roles to Instances by instance->action->security 
+
+# 5. [[ELB - Elastic Load Balancing]] 
+
+# 6. [[ASG - Auto Scaling Groups]]
