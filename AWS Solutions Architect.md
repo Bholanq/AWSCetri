@@ -35,3 +35,5 @@ We can assign IAM roles to Instances by instance->action->security
 # 5. [[ELB - Elastic Load Balancing]] 
 
 # 6. [[ASG - Auto Scaling Groups]]
+
+# 7. [[RDS - Relational Database Service]]

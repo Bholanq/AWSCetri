@@ -11,10 +11,14 @@
             "id": "55858fc541415be5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "RDS - Relational Database Service.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RDS - Relational Database Service"
             }
           }
         ]
@@ -181,6 +185,12 @@
   },
   "active": "55858fc541415be5",
   "lastOpenFiles": [
+    "Pasted image 20260504095146.png",
+    "Pasted image 20260504094841.png",
+    "Pasted image 20260504094108.png",
+    "AWS Solutions Architect.md",
+    "RDS - Relational Database Service.md",
+    "Relational Data Service.md",
     "SNI - Sever  Name Indication.md",
     "NLB - Network Load Balancer.md",
     "Pasted image 20260503235454.png",
@@ -203,9 +213,6 @@
     "Pasted image 20260503193357.png",
     "Pasted image 20260503193121.png",
     "Pasted image 20260503185822.png",
-    "Pasted image 20260503185812.png",
-    "Pasted image 20260503185648.png",
-    "AWS Solutions Architect.md",
     "EC2 Instance Storage EBS.md",
     "EBS Volume Types.md",
     "SSL/TLS.md",
@@ -215,8 +222,6 @@
     "EBS Multi-Attach.md",
     "EBS Snapshots.md",
     "IAM.md",
-    "EC2 Instance Store.md",
-    "ENI - Elastic Network Interface.md",
     "EC2 Instance Storage"
   ]
 }
