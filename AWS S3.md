@@ -27,6 +27,7 @@ Each object =
 
 
 Key = **prefix+object name**
+Where key is the full path
 
 ![[Pasted image 20260504153306.png]]
 
@@ -34,34 +35,33 @@ Key = **prefix+object name**
 
 # [[ S3 - Security]]
 
-- user-based
+- user-based - we can assign what APIs certain IAM user can call on S3.
 - resource-based
-	- bucket policies 
+	- bucket policies - WHO can do WHAT with the buckets.
 	- object access control list (ACL)
 	- BUCKET ACL
 ![[Pasted image 20260504155337.png]]
 
 ![[Pasted image 20260504182007.png]]
-# [[S3 Bucket Policies ]]
+# S3 Bucket Policies 
 - JSON based policies 
 - Same as general policies 
 - ![[Pasted image 20260504155656.png]]
 
-External User - Bucket Policy 
+External User - Bucket Policy - eg. Accessing a object resource from a S3 hosted website.
 IAM user - IAM Policy 
 EC2 Instance - IAM Roles
 Cross account access - Bucket Policy 
+
 ![[Pasted image 20260504160115.png]]
 
 
 # [[S3 Static Website Hosting ]]
 
 S3 can host websites and have them accessible on the internet 
-
 URL: depending on the region
 ![[Pasted image 20260504162503.png]]
 ### Always make sure to allow public reads.
-
 
 # [[S3 Versioning]] 
 
@@ -74,16 +74,18 @@ ADV:
 
 ![[Pasted image 20260504164206.png]]
 
-## Deleting a version is permanent and cannot be undone except for null versions
+## Deleting a version is permanent and cannot be undone except for null versions**
 
 #### When we delete a null version of an obj it creates a "delete marker" version.
 - This "Delete Marker" version can't be used
-We can restore the original object by deleting the "Delete Marker" version.
+**We can restore the original object by deleting the "Delete Marker" version.**
+
 ![[Pasted image 20260504165641.png]]
 
 
 # [[S3 - Replication (CRR & SRR)]]
 
+## Bucket-to-Bucket Replication
 ## ASYNC
 
 ![[Pasted image 20260504170510.png]]

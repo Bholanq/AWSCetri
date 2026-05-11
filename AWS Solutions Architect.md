@@ -38,8 +38,23 @@ We can assign IAM roles to Instances by instance->action->security
 
 # 7. [[RDS - Relational Database Service]]
 
-# 8. [[Amazon Aurora]] (incomp)
+# 8. [[Amazon Aurora]]
 
-# 9. [[AWS S3]]
+|OLTP|OLAP|
+|---|---|
+|Handles day-to-day transactions|Handles analytics/reporting|
+|Many small operations|Fewer but very large queries|
+|Fast inserts/updates|Fast aggregations/analysis|
+|Current operational data|Historical analytical data|
+RDS/Aurora - OLTP
+Athena/Redshift - OLAP
+[[RDS & Aurora Security & RDS Proxy]]
+# 9. [[ElastiCache]]
+# 10. [[AWS S3]]
 
+# 11. [[AWS Serverless]]
+# 11. [[Databases]]
 
+# 12. [[Data Analysis]]
+
+# 13. [[AWS Integration and Messaging]]

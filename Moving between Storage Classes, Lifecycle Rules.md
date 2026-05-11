@@ -4,6 +4,7 @@
 - Expiration Actions
 - Prefix based
 - Object tags based
+
 ![[Pasted image 20260504183650.png]]
 
 Q1.
@@ -12,6 +13,6 @@ Q2.
 ![[Pasted image 20260504184040.png]]
 
 
-# S3 - Analytics 
+# [[ S3 - Analytics]] 
 
 ![[Pasted image 20260504184148.png]]

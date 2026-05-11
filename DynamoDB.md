@@ -1,0 +1,5 @@
+- Fully managed NoSQL Database by DynamoDB
+- Capacity modes:
+	- Provisioned capacity with optional auto-scaling or on-demand capacity 
+- Can replace ElastiCache as a key/value store
+- Highly Available, across Multi AZ

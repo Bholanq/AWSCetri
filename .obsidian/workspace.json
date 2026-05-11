@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "41d5795e29ad7fe4",
+        "id": "6054b8f8d70faf1e",
         "type": "tabs",
         "children": [
           {
-            "id": "40af481596171b84",
+            "id": "c980d07e4fc53e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS S3.md",
+                "file": "Amazon SNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS S3"
-            }
-          },
-          {
-            "id": "fb40451e4743ba5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EC2 Instance Storage EBS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EC2 Instance Storage EBS"
-            }
-          },
-          {
-            "id": "b9e0a77a6e7ffc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelligent-Tiering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intelligent-Tiering"
-            }
-          },
-          {
-            "id": "6e4cd7ac582d4ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glacier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glacier"
+              "title": "Amazon SNS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7cb9d8c79e996e06",
@@ -138,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS SAA.md",
+                "file": "AWS Visual ETL.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS SAA"
+              "title": "Backlinks for AWS Visual ETL"
             }
           },
           {
@@ -213,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb40451e4743ba5b",
+  "active": "c980d07e4fc53e99",
   "lastOpenFiles": [
-    "Moving between Storage Classes, Lifecycle Rules.md",
-    "Pasted image 20260504184148.png",
-    "Pasted image 20260504184040.png",
-    "Pasted image 20260504183824.png",
-    "Pasted image 20260504183650.png",
-    "Pasted image 20260504183448.png",
-    "S3- Storage Classes.md",
-    "AWS S3.md",
-    "Pasted image 20260504182007.png",
-    "S3 - Express - One Zone.md",
-    "Pasted image 20260504181513.png",
-    "Standard General Purpose.md",
-    "Intelligent-Tiering.md",
-    "Glacier.md",
-    "Infrequent Access.md",
-    "Pasted image 20260504175612.png",
-    "Pasted image 20260504175444.png",
-    "Pasted image 20260504175224.png",
-    "RDS Read Replicas vs Multi AZ.md",
+    "SNS + SQS - Fan Out.md",
+    "Amazon SNS.md",
+    "AWS Integration and Messaging.md",
+    "Amazon MQ.md",
+    "Pasted image 20260511003300.png",
+    "Pasted image 20260511003015.png",
+    "Amazon Data Firehose.md",
+    "Pasted image 20260511002613.png",
+    "Amazon Kinesis Data Streams.md",
+    "Pasted image 20260511002458.png",
+    "Pasted image 20260511001752.png",
+    "Pasted image 20260510193817.png",
+    "Pasted image 20260510193405.png",
+    "Pasted image 20260510193058.png",
+    "Pasted image 20260510183241.png",
+    "Pasted image 20260510183040.png",
+    "Virtualization, Hypervisor and AWS EC2.md",
+    "Amazon SQS.md",
+    "SQL with ASG.md",
+    "SQS - FIFO Queue.md",
+    "SQS - Long Polling.md",
+    "SQL - Long Polling.md",
     "AWS Solutions Architect.md",
-    "Aurora Replicas - Auto Scaling.md",
-    "Amazon Aurora.md",
-    "RDS - Relational Database Service.md",
-    "RDS Custom.md",
-    "AWS SAA.md",
-    "Sticky Sessions (Session Affinity).md",
-    "Spot Fleets & EC2 Spot Instance Requests & Cancellation.md",
-    "Setting up a budget.md",
-    "Security Groups.md",
-    "SSL&TLS.md",
-    "SSH.md",
-    "SNI - Sever  Name Indication.md",
-    "Relational Data Service.md",
-    "Putty.md",
-    "Private,Public IPv4&ElasticIPs.md",
+    "GWLB - Gateway Load Balancer.md",
+    "SQS - Message Visibility Timeout.md",
+    "Decoupling.md",
+    "Databrew.md",
+    "AnshLambda AWS Glue.md",
+    "Workflows.md",
+    "Scheduling ETL.md",
+    "Event Based Trigger.md",
+    "Native Scheduling.md",
+    "AWS Lambda.md",
+    "Stream Processing.md",
+    "Incremental Load(Bookmarks).md",
     "EC2 Instance Storage"
   ]
 }

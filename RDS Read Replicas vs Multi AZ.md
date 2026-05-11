@@ -30,9 +30,13 @@ Only when data goes across AZ not when within the same AZ
 # Multi AZ - Disaster Recovery
 
 **Multi-AZ (Multi–Availability Zone)** is a high-availability feature in AWS databases where your data is **automatically replicated to a STANDBY INSTANCE in a different Availability Zone**.
-- Cannot be read or written
+
+
+
+- ### Cannot be read or written - only Disaster Recovery
+- but in case an DR does occur a stand-by is promoted to a Master DB
 - **Read Replicas can also be used as Multi AZ for DR**
-- Synchronous 
+- **Synchronous** 
 
 ![[Pasted image 20260504122803.png]]
 
