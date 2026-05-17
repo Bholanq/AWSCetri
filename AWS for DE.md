@@ -11,4 +11,10 @@
 8. [[S3-]]
 9. [[Lambda-]]
 10. [[Glue&Crawler]]
-11. 
+11. [[SerDe]]
+
+
+## Data Cleansing 
+Semi-Structured data to Structured
+Pipeline 
+![[Pasted image 20260517063611.png|697]]
