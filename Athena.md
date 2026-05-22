@@ -10,3 +10,8 @@
 ![[Pasted image 20260507121548.png]]
 
 ### [[Athena - Federated Query]]
+
+**In Athena/Presto SQL:**
+
+- **Double quotes `"` are for identifiers (column/table names)**
+- **Single quotes `'` are for string values**
