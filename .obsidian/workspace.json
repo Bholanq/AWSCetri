@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "AWS Solutions Architect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "AWS Solutions Architect"
             }
           }
         ]
@@ -185,13 +185,18 @@
   },
   "active": "55858fc541415be5",
   "lastOpenFiles": [
+    "Containers.md",
+    "AWS Solutions Architect.md",
+    "Docker.md",
+    "ECR.md",
+    "EKS.md",
+    "Fargate.md",
     "ECS.md",
     "AWS S3.md",
     "S3 Versioning.md",
     "Glue&Crawler.md",
     "AWS for DE.md",
     "SerDe.md",
-    "AWS Solutions Architect.md",
     "Workflows.md",
     "Virtualization, Hypervisor and AWS EC2.md",
     "TTL - Time to Live.md",
@@ -216,11 +221,6 @@
     "Pasted image 20260510141419.png",
     "Native Scheduling.md",
     "Moving between Storage Classes, Lifecycle Rules.md",
-    "Lambda@edge.md",
-    "Lambda-.md",
-    "Lambda SnapStart.md",
-    "Lake Formation.md",
-    "Invoking lambda from RDS & Aurora.md",
     "SSL",
     "EC2 Instance Storage"
   ]
