@@ -6,6 +6,22 @@ Docker Containers include:
 - Python Ver
 - Libraries
 - Dependencies 
-- Env Varibales 
+- Env Variables 
 - OS-level settings
 ## Docker Container
+A container is a lightweight isolated box/env, that runs your app with
+- its own file system
+- its own dependencies 
+- it own processes
+- but share the host OS kernel
+
+[[Docker vs Virtual Machines]]
+
+Backbone:
+- [[Image]]
+- Container
+
+A docker Container is just an running instance of a Docker Image.
+
+![[Pasted image 20260526092421.png|437]]
+

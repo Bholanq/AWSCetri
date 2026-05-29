@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55858fc541415be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
             "id": "00dfeb057d6b02c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AL's Docker.md",
+                "file": "EC2 Instance Storage/S3 to SFTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AL's Docker"
+              "title": "S3 to SFTP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,15 +185,25 @@
   },
   "active": "00dfeb057d6b02c9",
   "lastOpenFiles": [
-    "AL's Docker.md",
     "Docker.md",
+    "EC2 Instance Storage/S3 to SFTP.md",
+    "Connecting to Redshift via EC2.md",
+    "Copying Data from S3 to Redshift for Querying.md",
+    "AWS S3.md",
+    "Image.md",
+    "Pasted image 20260526094103.png",
+    "AL's Docker.md",
+    "Pasted image 20260526092421.png",
+    "Container.md",
+    "Docker vs Virtual Machines.md",
+    "Pasted image 20260526090337.png",
+    "Pasted image 20260526090154.png",
     "Containers.md",
     "AWS Solutions Architect.md",
     "ECR.md",
     "EKS.md",
     "Fargate.md",
     "ECS.md",
-    "AWS S3.md",
     "S3 Versioning.md",
     "Glue&Crawler.md",
     "AWS for DE.md",
@@ -220,22 +215,12 @@
     "Standard General Purpose.md",
     "Serverless.md",
     "Scheduling ETL.md",
-    "SQS - Message Visibility Timeout.md",
-    "SQS - Long Polling.md",
-    "SQS - FIFO Queue.md",
-    "SQL with ASG.md",
-    "SNS + SQS - Fan Out.md",
     "Pasted image 20260510171106.png",
     "Pasted image 20260510170857.png",
     "Pasted image 20260510170507.png",
     "Pasted image 20260510170232.png",
     "Pasted image 20260510165619.png",
     "Pasted image 20260510165310.png",
-    "Pasted image 20260510142319.png",
-    "Pasted image 20260510142142.png",
-    "Pasted image 20260510141554.png",
-    "Pasted image 20260510141419.png",
-    "Native Scheduling.md",
     "SSL",
     "EC2 Instance Storage"
   ]

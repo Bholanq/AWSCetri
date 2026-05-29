@@ -18,7 +18,7 @@
 	- Amazon ECR
 
 ![[Pasted image 20260518092757.png|348]]
-# Docker vs Virtual Machines
+# [[Docker vs Virtual Machines]]
 
 ![[Pasted image 20260518093129.png]]
 
