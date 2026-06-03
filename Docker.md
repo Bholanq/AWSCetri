@@ -19,12 +19,16 @@
 
 ![[Pasted image 20260518092757.png|348]]
 # [[Docker vs Virtual Machines]]
+VMs have a higher level of Isolation
 
 ![[Pasted image 20260518093129.png]]
 
+## VM + Containers
+Managed via Orchestrators - Cybernetics etc. 
+![[Pasted image 20260603070017.png|434]]
 # Getting Started with Docker
 
-![[Pasted image 20260518093650.png]]
+![[Pasted image 20260518093650.png|449]]
 - Dockerfile - Text file that contains instructions on how to build the Docker Image.
 - We build using the dockerfile  , along with everything else to build the Docker Image.
 

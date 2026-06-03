@@ -1,5 +1,7 @@
 # Virtual Machines
 With Virtual Machines we emulate a entire **full computer system**.
+Each VMs gets its own smaller Kernel.
+
 Run on Hypervisors like VMware, Ubuntu etc.
 ![[Pasted image 20260526090154.png|358]]
 

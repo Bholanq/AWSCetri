@@ -1,3 +1,13 @@
+
+# OCI - Open Container Initiative
+![[Pasted image 20260603064116.png|312]]
+
+- runtime
+- image
+- distribution
+
+# Docker Desktop Architecture
+![[Pasted image 20260603071111.png|389]]
 ## What is Docker?
 Docker is a platform for packaging, distributing and running applications inside lightweight portable units called containers.
 
@@ -19,7 +29,7 @@ A container is a lightweight isolated box/env, that runs your app with
 
 Backbone:
 - [[Image]]
-- [[Container Entrypoint]]
+- [[Container,Container Entrypoint]]
 
 A docker Container is just an running instance of a Docker Image.
 
@@ -27,3 +37,4 @@ A docker Container is just an running instance of a Docker Image.
 
 [[Port Mapping]]
 [[Docker Network]]
+[[Docker Compose]]

@@ -8,3 +8,4 @@ Since they're in two different containers, they can't directly communicate.
 Solution: Run them on the same network.
 
 
+![[Pasted image 20260603075541.png]]
