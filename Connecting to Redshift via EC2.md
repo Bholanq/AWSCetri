@@ -1,3 +1,5 @@
+Need to use boto3 to get temporary Credentials, to gain access to Redshift 
+
 ```
   GNU nano 8.7.1                                                                                   connection_check.py
 import boto3

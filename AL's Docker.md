@@ -19,7 +19,7 @@ A container is a lightweight isolated box/env, that runs your app with
 
 Backbone:
 - [[Image]]
-- Container
+- [[Container Entrypoint]]
 
 A docker Container is just an running instance of a Docker Image.
 
