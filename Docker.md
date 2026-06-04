@@ -40,3 +40,5 @@ Managed via Orchestrators - Cybernetics etc.
 [[EKS]]
 [[Fargate]]
 [[ECR]]
+[[Kubernetes]]
+
