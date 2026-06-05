@@ -1,0 +1,3 @@
+- kubectl get pod - 
+- kubectl apply -f podmainfest.yml
+- 

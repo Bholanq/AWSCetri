@@ -5,7 +5,8 @@ These pods need to live on some env. This could be VMs, OR our own Machine, very
 
 # Kubectl
 - Kube Control
-
+	[[kubectl commands]]
+	
 **kubectl** is the command-line tool used to interact with a Kubernetes cluster.
 A Kubernetes cluster contains of nodes which are VM's with containers in them.
 - Controller nodes - Doesn't usually have containers since its resources are used for mgmt.
@@ -19,7 +20,7 @@ The API Server is the only thing that talks to **etcd**.
 - **etcd** is Kubernetes' distributed key-value database.
 - Think of it as the **single source of truth** for the entire Kubernetes cluster 
 - stores the state of our clusters
-![[Pasted image 20260604083056.png|380]]
+![[Pasted image 20260604083056.png|594]]
 
 ### Scheduler
 The **Scheduler** decides **where a Pod should run**.

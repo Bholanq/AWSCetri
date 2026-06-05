@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAML.md",
+                "file": "kubectl commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YAML"
+              "title": "kubectl commands"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "YAML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "YAML"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,18 +199,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d8a736dd9187e9cb",
+  "active": "d7bd3f2ebe929bb7",
   "lastOpenFiles": [
     "Manifest.md",
-    "YAML.md",
     "Kubernetes.md",
+    "Docker.md",
+    "kubectl commands.md",
+    "YAML.md",
     "Pasted image 20260604091328.png",
     "Pasted image 20260604090812.png",
     "Pasted image 20260604083346.png",
     "Pasted image 20260604083056.png",
     "Pasted image 20260604083018.png",
     "Pasted image 20260604082415.png",
-    "Docker.md",
     "Amazon EMR.md",
     "Docker Storages.md",
     "Docker vs Virtual Machines.md",
@@ -234,7 +237,6 @@
     "EKS.md",
     "Fargate.md",
     "ECS.md",
-    "AWS S3.md",
     "SSL",
     "EC2 Instance Storage"
   ]
